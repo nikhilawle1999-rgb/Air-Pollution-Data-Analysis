@@ -9,4 +9,10 @@ Python project analyzing and visualizing daily weather data using Pandas and Mat
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
+
+  Features
+- Read weather data from CSV file  
+- Calculate key statistics (average, min, max temperature, rainy days)  
+- Create visual charts for temperature, humidity, and rainfall
+
+- 
