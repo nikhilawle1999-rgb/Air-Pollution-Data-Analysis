@@ -22,3 +22,15 @@ Python
 pandas – for data cleaning and aggregation
 
 matplotlib / seaborn – for data visualization
+
+ Output Visualizations
+
+Top 10 Most Polluted Cities
+![Top 10 Cities](top_10_cities.png)
+
+Average Pollutant Level by Country
+![Average by Country](avg_by_country.png)
+
+Daily Pollution Trend
+![Daily Trend](daily_trend.png)
+
